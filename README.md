@@ -47,6 +47,11 @@ After doing pre-processing of data, I split the data into train set and test set
 ![cm](https://raw.githubusercontent.com/alokthakur93/HR-Analytics/main/heat%20map.PNG)
 
 ## Model evaluation:
-* XGboost on normal data gives less miss-classification rate means it is      correctly identifying candidates who will work for company
-* It also have high specificity or True Negative rate means identifying       those who are looking for job change
+* XGboost on normal data gives less miss-classification rate means it is correctly identifying candidates who will work for company
+* It also have high specificity or True Negative rate means identifying those who are looking for job change
 * Increased precision value when compared to other model
+
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+ [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org)
+ ![](https://miro.medium.com/max/732/1*4krsnV59DxyWBFCtbUmUiw.jpeg)
